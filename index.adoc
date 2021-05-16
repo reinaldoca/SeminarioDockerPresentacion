@@ -16,9 +16,9 @@ Codificación, idioma, tabla de contenidos, tipo de documento
 Nombre y título del trabajo
 ////
 # Docker. Una nueva forma de ejecutar y desarrollar aplicaciones
-Cloud-DI Team - Departamento de Informática. UAL
+L
 
-image::di.png[]
+image::dipng[]
 
 // NO CAMBIAR!! (Entrar en modo no numerado de apartados)
 :numbered!: 
